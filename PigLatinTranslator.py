@@ -1,5 +1,7 @@
 print("Welcome to Pig Latin!")
 
+print("hello world")
+
 pyg = 'ay'
 
 original = input("Enter a word to have it translated to pig latin! ")
