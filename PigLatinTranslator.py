@@ -1,6 +1,5 @@
 print("Welcome to Pig Latin!")
 
-print("hello world")
 
 pyg = 'ay'
 
